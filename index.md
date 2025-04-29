@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Browse and Learn more about me!
 ---
 
